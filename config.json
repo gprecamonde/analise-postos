@@ -1,0 +1,77 @@
+{
+
+  "empresa": {
+    "nome": "GRUPO RECAMONDE",
+    "subtitulo": "Você em primeiro lugar!"
+  },
+
+  "app": {
+    "nome_completo": "Grupo Recamonde",
+    "versao": "1.0.0.2"
+  },
+
+  "tema": {
+    "cor_primaria": "#E08A2E",
+    "cor_secundaria": "#D6762C",
+    "cor_destaque": "#8E9A4A",
+    "cor_fundo": "#F1F3F5",
+    "cor_card": "#FFFFFF",
+    "cor_texto": "#2E2E2E"
+  },
+
+  "site": {
+    "url": "https://adtc-anderson.github.io/ad-bom-retiro",
+    "imagem": "img/icon-512.png"
+  },
+
+  "branding": {
+    "favicon": "img/icon-192.png",
+    "logo": "img/logoA.png",
+    "logo_alt": "Gp. Recamonde"
+  },
+
+  "localizacao": [
+    {
+      "nome": "Posto Pioneiro",
+      "link": "https://maps.app.goo.gl/DLaaKFwB518Prpcd6"
+    },
+    {
+      "nome": "Posto Recamonde",
+      "link": "https://maps.app.goo.gl/jkm47rn6fJGUVkzRA"
+    },
+    {
+      "nome": "Posto Recamonde II",
+      "link": "https://maps.app.goo.gl/SEAejNnoufEbowe7A"
+    }
+  ],
+
+  "unidades": [
+    {
+      "nome": "Posto Pioneiro",
+      "itens": [
+        { "nome": "Pista", "url": "LINK1" },
+        { "nome": "Restaurante", "url": "LINK2" }
+      ]
+    },
+    {
+      "nome": "Posto Parangaba",
+      "itens": [
+        { "nome": "Pista", "url": "LINK1" },
+        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiODEwN2JjN2MtY2Y4Yy00YzBhLWI2OWEtOWYyNmVhNDZiYjUwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
+        { "nome": "Troca de Óleo", "url": "LINK3" },
+        { "nome": "Lavagem", "url": "LINK4" }
+      ]
+    },
+    {
+      "nome": "Posto Parangaba II",
+      "itens": [
+        { "nome": "Pista", "url": "LINK1" },
+        { "nome": "Loja", "url": "LINK2" },
+        { "nome": "Troca de Óleo", "url": "LINK3" },
+        { "nome": "Lavagem", "url": "LINK4" }
+      ]
+    }
+  ]
+
+
+}
