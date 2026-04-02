@@ -1,0 +1,22 @@
+{
+  "name": "Grupo Recamonde",
+  "short_name": "Recamonde",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": ".",
+  "background_color": "#F1F3F5",
+  "theme_color": "#E08A2E",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "2026-03-26": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Resultados e Metas",
+      "hora": "08:30 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "André Recamonde",
+      "tema": "",
+      "observacao": "⛽ COMBUSTÍVEL\nPosto Pioneiro: 480 L\nPosto Recamonde: 279 L\nPosto Recamonde II: 225 L\n\n🛒 LOJA\nParangaba: 115K\nRestaurante: 100K\nTheberge: 70K"
+    },
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Balanced Scorecard",
+      "hora": "08:30 às 12:00",
+      "tipo": "",
+      "dirigente": "André Recamonde / Leonardo",
+      "tema": "Metodologia de gestão estratégica",
+      "observacao": "📊 INDICADORES ESTRATÉGICOS\n\n👥 PESSOAS (Aprendizado e Crescimento)\n- Treinamento\n- Capacitação\n- Cultura organizacional\n- Motivação da equipe\n- Número de funcionários (95%)\n- 1 pessoa extra\n- Satisfação e produtividade\n- Equipe necessária e eficiente\n- Descrição de cargos\n\n💰 FINANCEIRO\n- Lucro\n- Receita\n- Custos\n- Rentabilidade\n- Faturamento\n- Margem de lucro\n- Geração de valor\n\n💡 INOVAÇÃO\n- Automatização\n- Novos negócios\n- Reforma\n- Diversificar e diferenciar\n- Agendamento de serviços\n\n⚙️ PROCESSOS INTERNOS\n- Eficiência operacional\n- Padronização\n- Qualidade dos processos\n- Mapeamento\n- Clareza dos processos\n- Tempo de atendimento\n- Falhas operacionais\n\n🤝 CLIENTES\n- Satisfação\n- Fidelização\n- Experiência do cliente\n- Mapeamento de clientes\n- Pós-venda\n- NPS (Net Promoter Score)\n- Reclamações\n- Retorno de clientes"
+    }
+  ],
+  "2026-04-08": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Balanço Financeiro",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "Pedro Recamonde",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-04-22": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ]
+
+
+}
