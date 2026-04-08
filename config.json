@@ -49,7 +49,7 @@
     {
       "nome": "Posto Pioneiro",
       "itens": [
-        { "nome": "Pista", "url": "LINK1" },
+        { "nome": "Pista", "url": "https://app.powerbi.com/view?r=eyJrIjoiNjZjZmZhYTgtNzVjYi00ZGYyLTllNTktYzEyODA3MzNmZDVhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
         { "nome": "Restaurante", "url": "LINK2" }
       ]
     },
