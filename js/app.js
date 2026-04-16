@@ -1001,16 +1001,16 @@
     // 🔥 Marca o atual
     el.classList.add("ativo");
 
-    const altura = window.innerWidth < 768 ? 450 : 550;
+    const altura = window.innerWidth < 768 ? "65vh" : "75vh";
 
     container.innerHTML = `
       <iframe
         src="${url}"
-        width="100%"
-        height="${altura}"
         frameborder="0"
         allowfullscreen
         style="
+          width:100%;
+          height:${altura};
           margin-top:10px;
           border-radius:12px;
           border:none;
