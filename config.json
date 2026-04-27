@@ -65,7 +65,7 @@
     {
       "nome": "Posto Parangaba II",
       "itens": [
-        { "nome": "Pista", "url": "LINK1" },
+        { "nome": "Pista", "url": "https://app.powerbi.com/view?r=eyJrIjoiMjU3ZjZhY2UtY2NlNy00MDk0LWE3ZTEtOTA3OGZmZDA3MDNjIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }, 
         { "nome": "Loja", "url": "LINK2" },
         { "nome": "Troca de Óleo", "url": "LINK3" },
         { "nome": "Lavagem", "url": "LINK4" }
