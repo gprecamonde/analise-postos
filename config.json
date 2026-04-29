@@ -54,7 +54,7 @@
       ]
     },
     {
-      "nome": "Posto Parangaba",
+      "nome": "Posto Recamonde",
       "itens": [
         { "nome": "Pista", "url": "https://app.powerbi.com/view?r=eyJrIjoiZDUzNzVhNTUtNTU4Ni00Y2Q0LTg1ZTYtZDdiZWIwM2I0MmY5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
         { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiODEwN2JjN2MtY2Y4Yy00YzBhLWI2OWEtOWYyNmVhNDZiYjUwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "nome": "Posto Parangaba II",
+      "nome": "Posto Recamonde II",
       "itens": [
         { "nome": "Pista", "url": "https://app.powerbi.com/view?r=eyJrIjoiMjU3ZjZhY2UtY2NlNy00MDk0LWE3ZTEtOTA3OGZmZDA3MDNjIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }, 
         { "nome": "Loja", "url": "LINK2" },
