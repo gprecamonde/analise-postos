@@ -42,6 +42,28 @@
   }
   ],
   "2026-05-06": [
+  {
+    "dia_semana": "quarta-feira",
+    "titulo": "Apresentação Estratégica - Postos Recamonde",
+    "hora": "08:00 às 12:00",
+    "tipo": "POSTO RECAMONDE",
+    "dirigente": "André Recamonde",
+    "tema": "Processo de recrutamento, metas e alinhamento estratégico",
+    "observacao": "📌 PROCESSO DE RECRUTAMENTO E SELEÇÃO\n\n• Apresentação conduzida por Luciana\n• Definição das etapas de contratação\n• Avaliação de possível sistema para histórico e acompanhamento de candidatos\n\n📊 METAS PARA MAIO\n\n⛽ COMBUSTÍVEIS\n• Posto Pioneiro → 500 mil litros\n• Posto Recamonde → 300 mil litros\n• Posto Recamonde II → 250 mil litros\n\n🛒 LOJAS E RESTAURANTE\n• Loja Recamonde → R$ 120 mil\n• Loja Recamonde II → R$ 75 mil\n• Restaurante Pioneiro → R$ 100 mil\n\n📅 PRÓXIMA REUNIÃO\n\n• Validação do programa de recrutamento dentro do BSC\n• Verificação de colaboradores com possível prejuízo operacional\n• Definição de indicador de faturamento"
+  }
+  ],
+  "2026-05-19": [
+  {
+    "dia_semana": "quarta-feira",
+    "titulo": "Validação Estratégica e Indicadores Operacionais",
+    "hora": "08:00 às 12:00",
+    "tipo": "POSTO RECAMONDE",
+    "dirigente": "André Recamonde",
+    "tema": "BSC, recrutamento e análise operacional",
+    "observacao": "📌 PAUTA DA REUNIÃO\n\n📊 BSC E RECRUTAMENTO\n• Validação do programa de recrutamento dentro do BSC\n• Ajustes e alinhamento do processo seletivo\n• Avaliação estratégica de contratação e desempenho\n\n👥 ANÁLISE OPERACIONAL\n• Verificação de colaboradores com possível prejuízo operacional\n• Identificação de impactos financeiros e produtividade\n• Discussão sobre melhoria de desempenho da equipe\n\n💰 INDICADORES\n• Definição de indicador de faturamento\n• Estruturação de métricas e acompanhamento de resultados\n• Análise de desempenho comercial e operacional"
+  }
+  ],
+  "2026-06-03": [
     {
       "dia_semana": "quarta-feira",
       "titulo": "A definir",
@@ -52,7 +74,161 @@
       "observacao": ""
     }
   ],
-  "2026-05-20": [
+  "2026-06-17": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-07-01": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-07-15": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-07-29": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-08-12": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-08-26": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-09-09": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-09-23": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-10-07": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-10-21": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-11-04": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-11-18": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-12-02": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-12-16": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "A definir",
+      "hora": "08:00 às 12:00",
+      "tipo": "POSTO RECAMONDE",
+      "dirigente": "A definir",
+      "tema": "",
+      "observacao": ""
+    }
+  ],
+  "2026-12-30": [
     {
       "dia_semana": "quarta-feira",
       "titulo": "A definir",
@@ -63,6 +239,4 @@
       "observacao": ""
     }
   ]
-
-
 }
