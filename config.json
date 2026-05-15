@@ -66,7 +66,7 @@
       "nome": "Posto Recamonde II",
       "itens": [
         { "nome": "Pista", "url": "https://app.powerbi.com/view?r=eyJrIjoiMjU3ZjZhY2UtY2NlNy00MDk0LWE3ZTEtOTA3OGZmZDA3MDNjIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }, 
-        { "nome": "Loja", "url": "LINK2" },
+        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiZjM1ZDk4NmQtYTMwNC00MDE4LWJjMDAtNzY5MjQ4OTdlMjQ5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
         { "nome": "Troca de Óleo", "url": "LINK3" },
         { "nome": "Lavagem", "url": "LINK4" }
       ]
