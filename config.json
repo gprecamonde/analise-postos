@@ -57,18 +57,14 @@
       "nome": "Posto Recamonde",
       "itens": [
         { "nome": "Pista", "url": "https://app.powerbi.com/view?r=eyJrIjoiZDUzNzVhNTUtNTU4Ni00Y2Q0LTg1ZTYtZDdiZWIwM2I0MmY5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
-        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiODEwN2JjN2MtY2Y4Yy00YzBhLWI2OWEtOWYyNmVhNDZiYjUwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
-        { "nome": "Troca de Óleo", "url": "LINK3" },
-        { "nome": "Lavagem", "url": "LINK4" }
+        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiODEwN2JjN2MtY2Y4Yy00YzBhLWI2OWEtOWYyNmVhNDZiYjUwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }
       ]
     },
     {
       "nome": "Posto Recamonde II",
       "itens": [
         { "nome": "Pista", "url": "https://app.powerbi.com/view?r=eyJrIjoiMjU3ZjZhY2UtY2NlNy00MDk0LWE3ZTEtOTA3OGZmZDA3MDNjIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }, 
-        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiZjM1ZDk4NmQtYTMwNC00MDE4LWJjMDAtNzY5MjQ4OTdlMjQ5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
-        { "nome": "Troca de Óleo", "url": "LINK3" },
-        { "nome": "Lavagem", "url": "LINK4" }
+        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiZjM1ZDk4NmQtYTMwNC00MDE4LWJjMDAtNzY5MjQ4OTdlMjQ5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }
       ]
     }
   ]
