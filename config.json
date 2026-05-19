@@ -66,7 +66,8 @@
       "nome": "Posto Recamonde II",
       "itens": [
         { "nome": "Posto", "url": "https://app.powerbi.com/view?r=eyJrIjoiMjU3ZjZhY2UtY2NlNy00MDk0LWE3ZTEtOTA3OGZmZDA3MDNjIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }, 
-        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiZjM1ZDk4NmQtYTMwNC00MDE4LWJjMDAtNzY5MjQ4OTdlMjQ5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }
+        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiZjM1ZDk4NmQtYTMwNC00MDE4LWJjMDAtNzY5MjQ4OTdlMjQ5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
+        { "nome": "DRE", "url": "https://app.powerbi.com/view?r=eyJrIjoiNjI5NGY3NTktMzU4YS00YzMwLThjMDQtNTYyNTFkYmJlNzJhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }
       ]
     }
   ]
