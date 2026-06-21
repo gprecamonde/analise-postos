@@ -126,8 +126,8 @@ header p {
 .card h2 {
   color: var(--cor-texto);
   margin-top: 0;
+  text-align: center;
 }
-
 /* =========================
    BOTÕES / INPUTS
    ========================= */
@@ -863,6 +863,8 @@ footer {
   border-radius: 12px;
   font-weight: 600;
   cursor: pointer;
+
+  text-align: center;
 }
 
 .itens-unidade {
@@ -970,12 +972,15 @@ html {
 .itens-unidade a {
   display: block;
   background: #fff;
-  padding: 10px;
+  padding: 12px;
   border-radius: 8px;
   border: 1px solid #eee;
   text-decoration: none;
   color: #333;
   margin-bottom: 6px;
+
+  text-align: center;      /* Centraliza texto */
+  font-weight: 600;        /* Destaque */
 }
 
 .itens-unidade a:hover {
@@ -1010,4 +1015,15 @@ html {
 .painel-item {
   transition: all 0.3s ease;
 }
+
+.dre-geral {
+  text-align: center;
+}
+
+.dre-geral .btn-unidade {
+  display: inline-block;
+  min-width: 320px;
+}
+
+
 
