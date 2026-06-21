@@ -90,9 +90,20 @@
   <div class="nav-links" id="navLinks">
     <a href="#sobre" onclick="fecharMenu()">Sobre</a>
     <a href="#agenda-mensal-card" onclick="fecharMenu()">Agenda</a>
-    <a href="#painel" onclick="fecharMenu()">Painéis</a>
-    <a href="#local" onclick="fecharMenu()">Localização</a>
+
+    <a href="#painel" onclick="fecharMenu()">
+      Operacionais
+    </a>
+
+    <a href="#painelDRE" onclick="fecharMenu()">
+      Dre
+    </a>
+
+    <a href="#local" onclick="fecharMenu()">
+      Localização
+    </a>
   </div>
+
 </nav>
 
 <div class="container">
@@ -181,16 +192,17 @@
   <!-- =========================
     Painéis
   ========================= -->
-  <div class="card" style="text-align:center;">
-    <h2>📊 Painéis</h2>
-
+  <div class="card" id="painel">
+    <h2>🧰 Painéis Operacionais</h2>
     <div id="listaUnidades"></div>
+  </div>
 
-    <div id="painelBI" style="margin-top:20px;">
-      <div style="padding:20px; color:#666;">
-        Selecione um painel para visualizar
-      </div>
-    </div>
+  <div class="card" id="painelDRE">
+
+    <h2>💰 Painéis DRE</h2>
+
+    <div id="listaDRE"></div>
+
   </div>
 
   <div class="card" id="local" style="text-align:center;">
