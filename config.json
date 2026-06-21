@@ -1,15 +1,12 @@
 {
-
   "empresa": {
     "nome": "GRUPO RECAMONDE",
     "subtitulo": "Você em primeiro lugar!"
   },
-
   "app": {
     "nome_completo": "Grupo Recamonde",
-    "versao": "1.0.0.4"
+    "versao": "1.0.0.5"
   },
-
   "tema": {
     "cor_primaria": "#E08A2E",
     "cor_secundaria": "#D6762C",
@@ -18,18 +15,15 @@
     "cor_card": "#FFFFFF",
     "cor_texto": "#2E2E2E"
   },
-
   "site": {
     "url": "https://gprecamonde.github.io/analise-postos",
     "imagem": "img/icon-512.png"
   },
-
   "branding": {
     "favicon": "img/icon-192.png",
     "logo": "img/logoA.png",
     "logo_alt": "Gp. Recamonde"
   },
-
   "localizacao": [
     {
       "nome": "Posto Pioneiro",
@@ -44,33 +38,79 @@
       "link": "https://maps.app.goo.gl/SEAejNnoufEbowe7A"
     }
   ],
-
+  "dre_geral": {
+    "nome": "📊 DRE GERAL GRUPO RECAMONDE",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiOWYxYmNlZDktNDZjZS00Yzg2LWFlZDYtN2JiYTEwMGUzMjIxIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+  },
   "unidades": [
     {
       "nome": "Posto Pioneiro",
-      "itens": [
-        { "nome": "Posto", "url": "https://app.powerbi.com/view?r=eyJrIjoiNjZjZmZhYTgtNzVjYi00ZGYyLTllNTktYzEyODA3MzNmZDVhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
-        { "nome": "Restaurante", "url": "https://app.powerbi.com/view?r=eyJrIjoiNmQ5NWI3M2ItMDFlZS00OGM0LWIwMmItZDExNWYyM2U0Nzk4IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
-        { "nome": "DRE", "url": "https://app.powerbi.com/view?r=eyJrIjoiOGM1NWExZGUtMTRiYi00NDMwLWEyMGUtNGFhZmVkNDM2OGFhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }
+      "abastecimentos": [
+        {
+          "nome": "Pista",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjZjZmZhYTgtNzVjYi00ZGYyLTllNTktYzEyODA3MzNmZDVhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "Restaurante",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNmQ5NWI3M2ItMDFlZS00OGM0LWIwMmItZDExNWYyM2U0Nzk4IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        }
+      ],
+      "dre": [
+        {
+          "nome": "DRE Pista",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOGM1NWExZGUtMTRiYi00NDMwLWEyMGUtNGFhZmVkNDM2OGFhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "DRE Restaurante",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMjM2YzJiNGUtNDU1Yy00N2ZlLThlZWItZGUwNTk1ZDU5NjBiIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        }
       ]
     },
     {
       "nome": "Posto Recamonde",
-      "itens": [
-        { "nome": "Posto", "url": "https://app.powerbi.com/view?r=eyJrIjoiZDUzNzVhNTUtNTU4Ni00Y2Q0LTg1ZTYtZDdiZWIwM2I0MmY5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
-        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiODEwN2JjN2MtY2Y4Yy00YzBhLWI2OWEtOWYyNmVhNDZiYjUwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
-        { "nome": "DRE", "url": "https://app.powerbi.com/view?r=eyJrIjoiOWU1MGE0OWQtYTRhMS00OGE0LWE5ZWEtNTQxODU3MDk3NjgwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }
+      "abastecimentos": [
+        {
+          "nome": "Pista",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDUzNzVhNTUtNTU4Ni00Y2Q0LTg1ZTYtZDdiZWIwM2I0MmY5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "Loja",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODEwN2JjN2MtY2Y4Yy00YzBhLWI2OWEtOWYyNmVhNDZiYjUwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        }
+      ],
+      "dre": [
+        {
+          "nome": "DRE Pista",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOWU1MGE0OWQtYTRhMS00OGE0LWE5ZWEtNTQxODU3MDk3NjgwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "DRE Loja",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMGU0YmJhMjgtNTIxNi00Yjk0LWEyMjYtZTU1YjgwZDA2NGYxIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        }
       ]
     },
     {
       "nome": "Posto Recamonde II",
-      "itens": [
-        { "nome": "Posto", "url": "https://app.powerbi.com/view?r=eyJrIjoiMjU3ZjZhY2UtY2NlNy00MDk0LWE3ZTEtOTA3OGZmZDA3MDNjIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }, 
-        { "nome": "Loja", "url": "https://app.powerbi.com/view?r=eyJrIjoiZjM1ZDk4NmQtYTMwNC00MDE4LWJjMDAtNzY5MjQ4OTdlMjQ5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" },
-        { "nome": "DRE", "url": "https://app.powerbi.com/view?r=eyJrIjoiNjI5NGY3NTktMzU4YS00YzMwLThjMDQtNTYyNTFkYmJlNzJhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9" }
+      "abastecimentos": [
+        {
+          "nome": "Pista",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMjU3ZjZhY2UtY2NlNy00MDk0LWE3ZTEtOTA3OGZmZDA3MDNjIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "Loja",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZjM1ZDk4NmQtYTMwNC00MDE4LWJjMDAtNzY5MjQ4OTdlMjQ5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        }
+      ],
+      "dre": [
+        {
+          "nome": "DRE Pista",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjI5NGY3NTktMzU4YS00YzMwLThjMDQtNTYyNTFkYmJlNzJhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "DRE Loja II",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGQ0MDg4NGYtMWU1NC00YTJjLTgwYjktYzkxNTgxMTJhYjMzIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        }
       ]
     }
   ]
-
-
 }
