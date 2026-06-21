@@ -937,39 +937,41 @@
   function carregarUnidades() {
 
     const container = document.getElementById("listaUnidades");
-    const unidades = CONFIG.unidades;
-
-    if (!Array.isArray(unidades)) return;
 
     container.innerHTML = "";
 
-    unidades.forEach((unidade, index) => {
+    CONFIG.unidades.forEach((unidade, index) => {
 
       const bloco = document.createElement("div");
+
       bloco.className = "bloco-unidade";
 
       bloco.innerHTML = `
-        <div class="titulo-unidade" onclick="toggleUnidade(${index})">
+        <div class="titulo-unidade"
+            onclick="toggleUnidade(${index})">
           ${unidade.nome}
         </div>
 
-        <div class="itens-unidade" id="unidade-${index}">
-          ${unidade.itens.map(item => `
+        <div class="itens-unidade"
+            id="unidade-${index}">
 
+          ${unidade.abastecimentos.map(item => `
             <div class="item-painel">
 
-              <a href="javascript:void(0)" 
-                onclick="abrirPainel('${item.url}', this)" 
+              <a href="javascript:void(0)"
+                onclick="abrirPainel('${item.url}', this)"
                 class="btn-unidade">
+
                 ${item.nome}
+
               </a>
 
               <div class="painel-item"></div>
 
             </div>
-
           `).join("")}
-        </div>  
+
+        </div>
       `;
 
       container.appendChild(bloco);
@@ -977,6 +979,93 @@
     });
 
   }
+
+  function carregarDRE() {
+
+    const container = document.getElementById("listaDRE");
+
+    container.innerHTML = "";
+
+    CONFIG.unidades.forEach((unidade, index) => {
+
+      const bloco = document.createElement("div");
+
+      bloco.className = "bloco-unidade";
+
+      bloco.innerHTML = `
+        <div class="titulo-unidade"
+            onclick="toggleUnidadeDRE(${index})">
+
+          ${unidade.nome}
+
+        </div>
+
+        <div class="itens-unidade"
+            id="dre-${index}">
+
+          ${unidade.dre.map(item => `
+            <div class="item-painel">
+
+              <a href="javascript:void(0)"
+                onclick="abrirPainel('${item.url}', this)"
+                class="btn-unidade">
+
+                ${item.nome}
+
+              </a>
+
+              <div class="painel-item"></div>
+
+            </div>
+          `).join("")}
+
+        </div>
+      `;
+
+      container.appendChild(bloco);
+
+    });
+
+    // =========================
+    // DRE GERAL
+    // =========================
+
+    if (CONFIG.dre_geral) {
+
+      const blocoGeral = document.createElement("div");
+
+      blocoGeral.className = "item-painel";
+
+      blocoGeral.style.textAlign = "center";
+
+      blocoGeral.innerHTML = `
+
+        <hr style="margin:25px 0;opacity:.2">
+
+        <a href="javascript:void(0)"
+          onclick="abrirPainel('${CONFIG.dre_geral.url}', this)"
+          class="btn-unidade">
+
+          ${CONFIG.dre_geral.nome}
+
+        </a>
+
+        <div class="painel-item"></div>
+
+      `;
+
+      container.appendChild(blocoGeral);
+    }
+
+  }
+
+  function toggleUnidadeDRE(index) {
+  document
+  .getElementById(`dre-${index}`)
+  .classList.toggle("show");
+  }
+
+  
 
   function abrirPainel(url, el) {
 
@@ -1054,6 +1143,7 @@
     }
 
     carregarUnidades();
+    carregarDRE();
     carregarMapa();
 
    });
