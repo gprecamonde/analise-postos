@@ -76,6 +76,10 @@
         {
           "nome": "Loja",
           "url": "https://app.powerbi.com/view?r=eyJrIjoiODEwN2JjN2MtY2Y4Yy00YzBhLWI2OWEtOWYyNmVhNDZiYjUwIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "Troca de Óleo",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODcxZjY3M2EtYjNjYi00YmIwLWFiMjEtYWI0ZmQ2Y2IyNjg3IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
         }
       ],
       "dre": [
@@ -117,6 +121,10 @@
         {
           "nome": "DRE Loja II",
           "url": "https://app.powerbi.com/view?r=eyJrIjoiNGQ0MDg4NGYtMWU1NC00YTJjLTgwYjktYzkxNTgxMTJhYjMzIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "DRE Troca de Óleo",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTg4YmVmNjMtZTNmNy00MzVlLWE0MDMtYjkzMWIzZTRiZTM3IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
         }
       ]
     }
