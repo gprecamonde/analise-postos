@@ -5,7 +5,7 @@
   },
   "app": {
     "nome_completo": "Grupo Recamonde",
-    "versao": "1.0.0.5"
+    "versao": "1.0.0.6"
   },
   "tema": {
     "cor_primaria": "#E08A2E",
@@ -105,12 +105,12 @@
           "url": "https://app.powerbi.com/view?r=eyJrIjoiMjU3ZjZhY2UtY2NlNy00MDk0LWE3ZTEtOTA3OGZmZDA3MDNjIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
         },
         {
-          "nome": "Troca de Óleo",
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZjE1Yjc3NWYtMWUzYi00NzZkLWE1YTctZGIxODY1Njc5ZWFiIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
-        },
-        {
           "nome": "Loja",
           "url": "https://app.powerbi.com/view?r=eyJrIjoiZjM1ZDk4NmQtYTMwNC00MDE4LWJjMDAtNzY5MjQ4OTdlMjQ5IiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        },
+        {
+          "nome": "Troca de Óleo",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZjE1Yjc3NWYtMWUzYi00NzZkLWE1YTctZGIxODY1Njc5ZWFiIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
         }
       ],
       "dre": [
