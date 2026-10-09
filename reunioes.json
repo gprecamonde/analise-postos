@@ -170,29 +170,29 @@
     "tipo": "POSTO RECAMONDE",
     "dirigente": "A definir",
     "tema": "Análise de Vendas e Despesas – Pista, Loja e Troca de Óleo",
-    "observacao": "Reunião exclusiva para análise detalhada dos resultados do Posto Recamonde por meio do portal. Serão avaliadas as vendas e despesas da Pista, Loja e Troca de Óleo, buscando identificar o desempenho de cada setor, principais variações, pontos de atenção e oportunidades de melhoria. Ao final, registrar as decisões tomadas, responsáveis por cada ação e prazos definidos para acompanhamento na próxima reunião."
+    "observacao": "📌 ATA DE REUNIÃO INDIVIDUAL – GRUPO RECAMONDE (30/09/2026). Próxima reunião: em 45 dias no Pioneiro (Geral - Potencializar a loja e troca de pelo). \n\n⛽ 1. POSTO RECAMONDE:\n• Processos & Financeiro: Alinhamento de faturamento, clientes e colaboradores. Foco em Margem: Atenção redobrada ao combustível aditivado.\n• Acordos: André reunirá com Pedro para avaliar preços de frotas.\n\n🏪 2. LOJA RECAMONDE:\n• Contexto: Queda de fluxo após saída da igreja. Necessidade de organizar o buffet, documentar processos, definir metas de falhas e segmentar vendas de café/almoço por itens. Mês base DRE: Agosto.\n• Pessoas & Operação: Quadro de 11 colaboradores (2 jovens aprendizes). Implementar matriz Competência (atendimentos) x Vontade (atrasos, faltas, treinamentos, horas extra).\n• Rotinas Operacionais: Abertura/café, conferências, salada/buffet, troca de turno/reposição/limpeza e fecho.\n• Acordos & Prazos: Loja abrirá mais cedo. Analisar movimento (Vanessa, Vanusa, Márcia) e colocar pessoa proativa mais cedo (Prazo: 10/10/2026). Treinamento de salgados com Fran e Conceição. André observará a loja para gerar histórico e montará cronograma de rotinas. Foco em vendas por encomendas.\n\n👥 3. FOCO NO CLIENTE:\n• Verificar satisfação e reclamações. Identificar os 10 principais clientes (Top 10) para plano de relacionamento."
   }
 ],
-  "2026-10-07": [
+"2026-10-14": [
     {
       "dia_semana": "quarta-feira",
-      "titulo": "A definir",
+      "titulo": "Alinhamento Geral – Operação e Cultura Recamonde",
       "hora": "08:00 às 12:00",
       "tipo": "POSTO RECAMONDE",
-      "dirigente": "A definir",
-      "tema": "",
-      "observacao": ""
+      "dirigente": "André / Gestão",
+      "tema": "Acompanhamento de Prazos, Nova Rotina da Loja e Alinhamento de Equipa",
+      "observacao": "REUNIÃO GERAL"
     }
   ],
-  "2026-10-21": [
+"2026-10-28": [
     {
       "dia_semana": "quarta-feira",
-      "titulo": "A definir",
+      "titulo": "Reunião Individual – Posto Pioneiro",
       "hora": "08:00 às 12:00",
-      "tipo": "POSTO RECAMONDE",
-      "dirigente": "A definir",
-      "tema": "",
-      "observacao": ""
+      "tipo": "POSTO PIONEIRO",
+      "dirigente": "André / Gestão",
+      "tema": "Plano de Alavancagem: Potencializar a Loja e Renovação de Processos",
+      "observacao": "REUNIÃO INDIVIDUAL (POSTO PIONEIRO) "
     }
   ],
   "2026-11-04": [
