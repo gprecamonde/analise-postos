@@ -116,10 +116,8 @@
             "nome": "Eletroposto",
             "url": "https://app.powerbi.com/view?r=eyJrIjoiYmNhZmRkOTctNWNkNS00YmZiLWExYzYtNmRjNDFkMWJlYTQxIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
           }
-        ]
-      }
-      ],
-      "dre": [
+        ],
+        "dre": [
         {
           "nome": "DRE Pista",
           "url": "https://app.powerbi.com/view?r=eyJrIjoiNjI5NGY3NTktMzU4YS00YzMwLThjMDQtNTYyNTFkYmJlNzJhIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
